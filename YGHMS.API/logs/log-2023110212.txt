@@ -1,0 +1,8 @@
+2023-11-02 12:00:02.610 +07:00 [ERR] Param can not null or empty
+2023-11-02 12:00:03.968 +07:00 [ERR] Param can not null or empty
+2023-11-02 12:00:05.169 +07:00 [ERR] Param can not null or empty
+2023-11-02 12:00:06.076 +07:00 [ERR] Param can not null or empty
+2023-11-02 12:00:18.286 +07:00 [ERR] Param can not null or empty
+2023-11-02 12:00:37.035 +07:00 [ERR] No any apartment, post can not be activated
+2023-11-02 12:00:43.802 +07:00 [ERR] No any apartment, post can not be activated
+2023-11-02 12:07:23.728 +07:00 [ERR] No any apartment, post can not be activated

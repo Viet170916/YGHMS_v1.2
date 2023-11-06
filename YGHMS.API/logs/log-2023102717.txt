@@ -1,0 +1,13 @@
+2023-10-27 17:26:05.551 +07:00 [ERR] An exception occurred while iterating over the results of a query for context type 'YghRentalManagementSystem.Infra.RentalManagementContext'.
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (00000005, 0xFFFDFFFF): nodename nor servname provided, or not known
+   at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, ValueStopwatch stopwatch)
+   at System.Net.Dns.GetHostEntry(String hostNameOrAddress, AddressFamily family)
+   at YghRentalManagementSystem.Common.Uri.BuildUrlWithHost(String relativePath)
+   at lambda_method798(Closure , QueryContext , DbDataReader , ResultContext , SingleQueryResultCoordinator )
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (00000005, 0xFFFDFFFF): nodename nor servname provided, or not known
+   at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, ValueStopwatch stopwatch)
+   at System.Net.Dns.GetHostEntry(String hostNameOrAddress, AddressFamily family)
+   at YghRentalManagementSystem.Common.Uri.BuildUrlWithHost(String relativePath)
+   at lambda_method798(Closure , QueryContext , DbDataReader , ResultContext , SingleQueryResultCoordinator )
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()

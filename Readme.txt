@@ -1,0 +1,2 @@
+﻿MySql
+Scaffold-DbContext "Server=localhost;Port=3306;Database=ygh_rental_management_system;User Id=root;Password=root;" MySql.EntityFrameworkCore -OutputDir "Infra\Models" -ContextDir "Infra" -Context "RentalManagementContext" -Force

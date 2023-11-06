@@ -1,0 +1,7 @@
+2023-10-28 12:12:18.026 +07:00 [ERR] No any apartment, post can not be activated
+2023-10-28 12:12:19.924 +07:00 [ERR] No any apartment, post can not be activated
+2023-10-28 12:12:22.180 +07:00 [ERR] No any apartment, post can not be activated
+2023-10-28 12:12:23.338 +07:00 [ERR] No any apartment, post can not be activated
+2023-10-28 12:12:24.267 +07:00 [ERR] No any apartment, post can not be activated
+2023-10-28 12:12:24.927 +07:00 [ERR] No any apartment, post can not be activated
+2023-10-28 12:42:54.664 +07:00 [ERR] No any apartment, post can not be activated

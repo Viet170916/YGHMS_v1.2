@@ -1,0 +1,30 @@
+2023-10-27 15:45:44.702 +07:00 [ERR] An exception occurred while iterating over the results of a query for context type 'YghRentalManagementSystem.Infra.RentalManagementContext'.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at YghRentalManagementSystem.Common.URI.BuildUrlWithHost(String relativePath) in /Users/vuquocviet/RiderProjects/YHRMS/Common/URI.cs:line 12
+   at lambda_method66(Closure , QueryContext , DbDataReader , ResultContext , SingleQueryResultCoordinator )
+   at Microsoft.EntityFrameworkCore.Query.RelationalShapedQueryCompilingExpressionVisitor.ShaperProcessingExpressionVisitor.<PopulateCollection>g__ProcessCurrentElementRow|29_1[TCollection,TElement,TRelatedEntity](<>c__DisplayClass29_0`3& )
+   at Microsoft.EntityFrameworkCore.Query.RelationalShapedQueryCompilingExpressionVisitor.ShaperProcessingExpressionVisitor.PopulateCollection[TCollection,TElement,TRelatedEntity](Int32 collectionId, QueryContext queryContext, DbDataReader dbDataReader, SingleQueryResultCoordinator resultCoordinator, Func`3 parentIdentifier, Func`3 outerIdentifier, Func`3 selfIdentifier, IReadOnlyList`1 parentIdentifierValueComparers, IReadOnlyList`1 outerIdentifierValueComparers, IReadOnlyList`1 selfIdentifierValueComparers, Func`5 innerShaper)
+   at lambda_method101(Closure , QueryContext , DbDataReader , ResultContext , SingleQueryResultCoordinator )
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at YghRentalManagementSystem.Common.URI.BuildUrlWithHost(String relativePath) in /Users/vuquocviet/RiderProjects/YHRMS/Common/URI.cs:line 12
+   at lambda_method66(Closure , QueryContext , DbDataReader , ResultContext , SingleQueryResultCoordinator )
+   at Microsoft.EntityFrameworkCore.Query.RelationalShapedQueryCompilingExpressionVisitor.ShaperProcessingExpressionVisitor.<PopulateCollection>g__ProcessCurrentElementRow|29_1[TCollection,TElement,TRelatedEntity](<>c__DisplayClass29_0`3& )
+   at Microsoft.EntityFrameworkCore.Query.RelationalShapedQueryCompilingExpressionVisitor.ShaperProcessingExpressionVisitor.PopulateCollection[TCollection,TElement,TRelatedEntity](Int32 collectionId, QueryContext queryContext, DbDataReader dbDataReader, SingleQueryResultCoordinator resultCoordinator, Func`3 parentIdentifier, Func`3 outerIdentifier, Func`3 selfIdentifier, IReadOnlyList`1 parentIdentifierValueComparers, IReadOnlyList`1 outerIdentifierValueComparers, IReadOnlyList`1 selfIdentifierValueComparers, Func`5 innerShaper)
+   at lambda_method101(Closure , QueryContext , DbDataReader , ResultContext , SingleQueryResultCoordinator )
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+2023-10-27 15:45:44.702 +07:00 [ERR] An exception occurred while iterating over the results of a query for context type 'YghRentalManagementSystem.Infra.RentalManagementContext'.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at YghRentalManagementSystem.Common.URI.BuildUrlWithHost(String relativePath) in /Users/vuquocviet/RiderProjects/YHRMS/Common/URI.cs:line 12
+   at lambda_method46(Closure , QueryContext , DbDataReader , ResultContext , SingleQueryResultCoordinator )
+   at Microsoft.EntityFrameworkCore.Query.RelationalShapedQueryCompilingExpressionVisitor.ShaperProcessingExpressionVisitor.<PopulateCollection>g__ProcessCurrentElementRow|29_1[TCollection,TElement,TRelatedEntity](<>c__DisplayClass29_0`3& )
+   at Microsoft.EntityFrameworkCore.Query.RelationalShapedQueryCompilingExpressionVisitor.ShaperProcessingExpressionVisitor.PopulateCollection[TCollection,TElement,TRelatedEntity](Int32 collectionId, QueryContext queryContext, DbDataReader dbDataReader, SingleQueryResultCoordinator resultCoordinator, Func`3 parentIdentifier, Func`3 outerIdentifier, Func`3 selfIdentifier, IReadOnlyList`1 parentIdentifierValueComparers, IReadOnlyList`1 outerIdentifierValueComparers, IReadOnlyList`1 selfIdentifierValueComparers, Func`5 innerShaper)
+   at lambda_method109(Closure , QueryContext , DbDataReader , ResultContext , SingleQueryResultCoordinator )
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at YghRentalManagementSystem.Common.URI.BuildUrlWithHost(String relativePath) in /Users/vuquocviet/RiderProjects/YHRMS/Common/URI.cs:line 12
+   at lambda_method46(Closure , QueryContext , DbDataReader , ResultContext , SingleQueryResultCoordinator )
+   at Microsoft.EntityFrameworkCore.Query.RelationalShapedQueryCompilingExpressionVisitor.ShaperProcessingExpressionVisitor.<PopulateCollection>g__ProcessCurrentElementRow|29_1[TCollection,TElement,TRelatedEntity](<>c__DisplayClass29_0`3& )
+   at Microsoft.EntityFrameworkCore.Query.RelationalShapedQueryCompilingExpressionVisitor.ShaperProcessingExpressionVisitor.PopulateCollection[TCollection,TElement,TRelatedEntity](Int32 collectionId, QueryContext queryContext, DbDataReader dbDataReader, SingleQueryResultCoordinator resultCoordinator, Func`3 parentIdentifier, Func`3 outerIdentifier, Func`3 selfIdentifier, IReadOnlyList`1 parentIdentifierValueComparers, IReadOnlyList`1 outerIdentifierValueComparers, IReadOnlyList`1 selfIdentifierValueComparers, Func`5 innerShaper)
+   at lambda_method109(Closure , QueryContext , DbDataReader , ResultContext , SingleQueryResultCoordinator )
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()

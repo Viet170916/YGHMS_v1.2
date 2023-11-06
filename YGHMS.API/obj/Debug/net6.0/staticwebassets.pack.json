@@ -1,0 +1,689 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022132905997.png",
+      "PackagePath": "staticwebassets/images/20231022132905997.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022132906166.png",
+      "PackagePath": "staticwebassets/images/20231022132906166.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022132906185.png",
+      "PackagePath": "staticwebassets/images/20231022132906185.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022132906191.png",
+      "PackagePath": "staticwebassets/images/20231022132906191.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022133241908.png",
+      "PackagePath": "staticwebassets/images/20231022133241908.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022133241930.png",
+      "PackagePath": "staticwebassets/images/20231022133241930.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022133241940.png",
+      "PackagePath": "staticwebassets/images/20231022133241940.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022133241954.png",
+      "PackagePath": "staticwebassets/images/20231022133241954.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022133806728.png",
+      "PackagePath": "staticwebassets/images/20231022133806728.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022133807178.png",
+      "PackagePath": "staticwebassets/images/20231022133807178.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022133807200.png",
+      "PackagePath": "staticwebassets/images/20231022133807200.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022133807240.png",
+      "PackagePath": "staticwebassets/images/20231022133807240.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134323314.png",
+      "PackagePath": "staticwebassets/images/20231022134323314.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134323742.png",
+      "PackagePath": "staticwebassets/images/20231022134323742.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134323760.png",
+      "PackagePath": "staticwebassets/images/20231022134323760.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134323765.png",
+      "PackagePath": "staticwebassets/images/20231022134323765.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134457939.png",
+      "PackagePath": "staticwebassets/images/20231022134457939.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134458400.png",
+      "PackagePath": "staticwebassets/images/20231022134458400.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134458418.png",
+      "PackagePath": "staticwebassets/images/20231022134458418.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134458423.png",
+      "PackagePath": "staticwebassets/images/20231022134458423.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134529608.png",
+      "PackagePath": "staticwebassets/images/20231022134529608.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134529615.png",
+      "PackagePath": "staticwebassets/images/20231022134529615.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134529619.png",
+      "PackagePath": "staticwebassets/images/20231022134529619.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134529625.png",
+      "PackagePath": "staticwebassets/images/20231022134529625.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134529629.png",
+      "PackagePath": "staticwebassets/images/20231022134529629.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134529633.png",
+      "PackagePath": "staticwebassets/images/20231022134529633.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134529638.png",
+      "PackagePath": "staticwebassets/images/20231022134529638.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134540630.png",
+      "PackagePath": "staticwebassets/images/20231022134540630.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134540637.png",
+      "PackagePath": "staticwebassets/images/20231022134540637.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134540641.png",
+      "PackagePath": "staticwebassets/images/20231022134540641.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134540645.png",
+      "PackagePath": "staticwebassets/images/20231022134540645.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134540648.png",
+      "PackagePath": "staticwebassets/images/20231022134540648.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134540652.png",
+      "PackagePath": "staticwebassets/images/20231022134540652.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022134540657.png",
+      "PackagePath": "staticwebassets/images/20231022134540657.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022135944815.png",
+      "PackagePath": "staticwebassets/images/20231022135944815.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022135944830.png",
+      "PackagePath": "staticwebassets/images/20231022135944830.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022135944838.png",
+      "PackagePath": "staticwebassets/images/20231022135944838.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022135944844.png",
+      "PackagePath": "staticwebassets/images/20231022135944844.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022135944854.png",
+      "PackagePath": "staticwebassets/images/20231022135944854.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022135944861.png",
+      "PackagePath": "staticwebassets/images/20231022135944861.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022135944868.png",
+      "PackagePath": "staticwebassets/images/20231022135944868.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022135944877.png",
+      "PackagePath": "staticwebassets/images/20231022135944877.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022140052112.png",
+      "PackagePath": "staticwebassets/images/20231022140052112.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022140052129.png",
+      "PackagePath": "staticwebassets/images/20231022140052129.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022140052137.png",
+      "PackagePath": "staticwebassets/images/20231022140052137.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022140052143.png",
+      "PackagePath": "staticwebassets/images/20231022140052143.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022140052154.png",
+      "PackagePath": "staticwebassets/images/20231022140052154.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022151217043.png",
+      "PackagePath": "staticwebassets/images/20231022151217043.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022151217340.png",
+      "PackagePath": "staticwebassets/images/20231022151217340.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022151816584.png",
+      "PackagePath": "staticwebassets/images/20231022151816584.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231022151816963.png",
+      "PackagePath": "staticwebassets/images/20231022151816963.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231023074522102.png",
+      "PackagePath": "staticwebassets/images/20231023074522102.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231023074522358.png",
+      "PackagePath": "staticwebassets/images/20231023074522358.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231023074522370.png",
+      "PackagePath": "staticwebassets/images/20231023074522370.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231023074533821.png",
+      "PackagePath": "staticwebassets/images/20231023074533821.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231023074533830.png",
+      "PackagePath": "staticwebassets/images/20231023074533830.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231023074533839.png",
+      "PackagePath": "staticwebassets/images/20231023074533839.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231023075919104.png",
+      "PackagePath": "staticwebassets/images/20231023075919104.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231023075919524.png",
+      "PackagePath": "staticwebassets/images/20231023075919524.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231023075919549.png",
+      "PackagePath": "staticwebassets/images/20231023075919549.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231023075919558.png",
+      "PackagePath": "staticwebassets/images/20231023075919558.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231023075919564.png",
+      "PackagePath": "staticwebassets/images/20231023075919564.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231023075919569.png",
+      "PackagePath": "staticwebassets/images/20231023075919569.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231027084603529.png",
+      "PackagePath": "staticwebassets/images/20231027084603529.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231027084827753.png",
+      "PackagePath": "staticwebassets/images/20231027084827753.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231027085153430.png",
+      "PackagePath": "staticwebassets/images/20231027085153430.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231027095953037.png",
+      "PackagePath": "staticwebassets/images/20231027095953037.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231027095953533.png",
+      "PackagePath": "staticwebassets/images/20231027095953533.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231027141002243.png",
+      "PackagePath": "staticwebassets/images/20231027141002243.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231027141848818.png",
+      "PackagePath": "staticwebassets/images/20231027141848818.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231027142111856.png",
+      "PackagePath": "staticwebassets/images/20231027142111856.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231027235839896.png",
+      "PackagePath": "staticwebassets/images/20231027235839896.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231027235848513.png",
+      "PackagePath": "staticwebassets/images/20231027235848513.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231027235946910.png",
+      "PackagePath": "staticwebassets/images/20231027235946910.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231028000015435.png",
+      "PackagePath": "staticwebassets/images/20231028000015435.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231028000314154.png",
+      "PackagePath": "staticwebassets/images/20231028000314154.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231028121350553.png",
+      "PackagePath": "staticwebassets/images/20231028121350553.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231028121350578.png",
+      "PackagePath": "staticwebassets/images/20231028121350578.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231028121350592.png",
+      "PackagePath": "staticwebassets/images/20231028121350592.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231031171601012.png",
+      "PackagePath": "staticwebassets/images/20231031171601012.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120202989.png",
+      "PackagePath": "staticwebassets/images/20231101120202989.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120203023.png",
+      "PackagePath": "staticwebassets/images/20231101120203023.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120203043.png",
+      "PackagePath": "staticwebassets/images/20231101120203043.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120203059.png",
+      "PackagePath": "staticwebassets/images/20231101120203059.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120203074.png",
+      "PackagePath": "staticwebassets/images/20231101120203074.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120220520.png",
+      "PackagePath": "staticwebassets/images/20231101120220520.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120220528.png",
+      "PackagePath": "staticwebassets/images/20231101120220528.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120220537.png",
+      "PackagePath": "staticwebassets/images/20231101120220537.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120220543.png",
+      "PackagePath": "staticwebassets/images/20231101120220543.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120220555.png",
+      "PackagePath": "staticwebassets/images/20231101120220555.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120224775.png",
+      "PackagePath": "staticwebassets/images/20231101120224775.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120224797.png",
+      "PackagePath": "staticwebassets/images/20231101120224797.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120224808.png",
+      "PackagePath": "staticwebassets/images/20231101120224808.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120224825.png",
+      "PackagePath": "staticwebassets/images/20231101120224825.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120224838.png",
+      "PackagePath": "staticwebassets/images/20231101120224838.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120305489.png",
+      "PackagePath": "staticwebassets/images/20231101120305489.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120305509.png",
+      "PackagePath": "staticwebassets/images/20231101120305509.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120305516.png",
+      "PackagePath": "staticwebassets/images/20231101120305516.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120305531.png",
+      "PackagePath": "staticwebassets/images/20231101120305531.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120305544.png",
+      "PackagePath": "staticwebassets/images/20231101120305544.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120408820.png",
+      "PackagePath": "staticwebassets/images/20231101120408820.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120408830.png",
+      "PackagePath": "staticwebassets/images/20231101120408830.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120408837.png",
+      "PackagePath": "staticwebassets/images/20231101120408837.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120408852.png",
+      "PackagePath": "staticwebassets/images/20231101120408852.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120408862.png",
+      "PackagePath": "staticwebassets/images/20231101120408862.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120524016.png",
+      "PackagePath": "staticwebassets/images/20231101120524016.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120524029.png",
+      "PackagePath": "staticwebassets/images/20231101120524029.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120524038.png",
+      "PackagePath": "staticwebassets/images/20231101120524038.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120524048.png",
+      "PackagePath": "staticwebassets/images/20231101120524048.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101120524054.png",
+      "PackagePath": "staticwebassets/images/20231101120524054.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101143116973.png",
+      "PackagePath": "staticwebassets/images/20231101143116973.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101152133419.png",
+      "PackagePath": "staticwebassets/images/20231101152133419.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101152134094.png",
+      "PackagePath": "staticwebassets/images/20231101152134094.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101152134145.png",
+      "PackagePath": "staticwebassets/images/20231101152134145.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101152308092.png",
+      "PackagePath": "staticwebassets/images/20231101152308092.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101152308116.png",
+      "PackagePath": "staticwebassets/images/20231101152308116.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101152308131.png",
+      "PackagePath": "staticwebassets/images/20231101152308131.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101152430954.png",
+      "PackagePath": "staticwebassets/images/20231101152430954.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101152431538.png",
+      "PackagePath": "staticwebassets/images/20231101152431538.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101152431642.png",
+      "PackagePath": "staticwebassets/images/20231101152431642.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101153142915.png",
+      "PackagePath": "staticwebassets/images/20231101153142915.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101153143551.png",
+      "PackagePath": "staticwebassets/images/20231101153143551.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101153143580.png",
+      "PackagePath": "staticwebassets/images/20231101153143580.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101184751004.png",
+      "PackagePath": "staticwebassets/images/20231101184751004.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101190049394.png",
+      "PackagePath": "staticwebassets/images/20231101190049394.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101190053479.png",
+      "PackagePath": "staticwebassets/images/20231101190053479.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231101190058021.png",
+      "PackagePath": "staticwebassets/images/20231101190058021.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231102115956858.png",
+      "PackagePath": "staticwebassets/images/20231102115956858.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231102120002564.png",
+      "PackagePath": "staticwebassets/images/20231102120002564.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231102120003948.png",
+      "PackagePath": "staticwebassets/images/20231102120003948.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231102120005145.png",
+      "PackagePath": "staticwebassets/images/20231102120005145.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231102120006054.png",
+      "PackagePath": "staticwebassets/images/20231102120006054.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231102120018258.png",
+      "PackagePath": "staticwebassets/images/20231102120018258.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231102120025008.png",
+      "PackagePath": "staticwebassets/images/20231102120025008.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231102120036794.png",
+      "PackagePath": "staticwebassets/images/20231102120036794.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231102120037015.png",
+      "PackagePath": "staticwebassets/images/20231102120037015.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231102120043781.png",
+      "PackagePath": "staticwebassets/images/20231102120043781.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231102120236919.png",
+      "PackagePath": "staticwebassets/images/20231102120236919.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231102120249051.png",
+      "PackagePath": "staticwebassets/images/20231102120249051.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231102120345743.png",
+      "PackagePath": "staticwebassets/images/20231102120345743.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231102120358560.png",
+      "PackagePath": "staticwebassets/images/20231102120358560.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231102120418387.png",
+      "PackagePath": "staticwebassets/images/20231102120418387.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231102120738790.png",
+      "PackagePath": "staticwebassets/images/20231102120738790.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231102223751619.png",
+      "PackagePath": "staticwebassets/images/20231102223751619.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231102223852704.png",
+      "PackagePath": "staticwebassets/images/20231102223852704.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231103005723726.png",
+      "PackagePath": "staticwebassets/images/20231103005723726.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231103010943668.png",
+      "PackagePath": "staticwebassets/images/20231103010943668.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231103011007704.png",
+      "PackagePath": "staticwebassets/images/20231103011007704.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231103011037484.png",
+      "PackagePath": "staticwebassets/images/20231103011037484.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231103025917002.png",
+      "PackagePath": "staticwebassets/images/20231103025917002.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231103025923411.png",
+      "PackagePath": "staticwebassets/images/20231103025923411.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231103025927531.png",
+      "PackagePath": "staticwebassets/images/20231103025927531.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231103030009468.png",
+      "PackagePath": "staticwebassets/images/20231103030009468.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231103030012455.png",
+      "PackagePath": "staticwebassets/images/20231103030012455.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231105221934478.png",
+      "PackagePath": "staticwebassets/images/20231105221934478.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231105221939885.png",
+      "PackagePath": "staticwebassets/images/20231105221939885.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231105221956758.png",
+      "PackagePath": "staticwebassets/images/20231105221956758.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231105222026866.png",
+      "PackagePath": "staticwebassets/images/20231105222026866.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231105222032240.png",
+      "PackagePath": "staticwebassets/images/20231105222032240.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231105222334783.png",
+      "PackagePath": "staticwebassets/images/20231105222334783.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231105222340928.png",
+      "PackagePath": "staticwebassets/images/20231105222340928.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231105222345267.png",
+      "PackagePath": "staticwebassets/images/20231105222345267.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231105222411328.png",
+      "PackagePath": "staticwebassets/images/20231105222411328.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231105222414490.png",
+      "PackagePath": "staticwebassets/images/20231105222414490.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/20231105222417370.png",
+      "PackagePath": "staticwebassets/images/20231105222417370.png"
+    },
+    {
+      "Id": "/Users/vuquocviet/RiderProjects/YGHMS_v1.2/YGHMS.API/wwwroot/images/IMG_8628.png",
+      "PackagePath": "staticwebassets/images/IMG_8628.png"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.YGHMS.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.YGHMS.API.props",
+      "PackagePath": "build\\YGHMS.API.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.YGHMS.API.props",
+      "PackagePath": "buildMultiTargeting\\YGHMS.API.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.YGHMS.API.props",
+      "PackagePath": "buildTransitive\\YGHMS.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
